@@ -1,9 +1,10 @@
 # Guardianes-del-Reino-202205093
 # Fase 1 Análisis 
- A continuación se le presentara un análisis donde se estará indicando que es lo que realizaremos y como queremos que el juego tenga como por ejemplo métodos, cuantos jugadores queremos que puedan jugar si necesitamos un manual para poder guiarnos en el también tenemos que ver cuantos niveles deseamos que tenga con lo que usaremos Tuplas y ciclos
+El documento presenta el análisis del videojuego Guardianes del Reino, un juego de aventura, estrategia y acción dirigido a adolescentes. El jugador toma el papel de un joven guerrero que debe recorrer diferentes lugares, recuperar reliquias sagradas y derrotar a los enemigos.
+El videojuego está formado por 10 niveles, los cuales aumentan su dificultad. Al comenzar, el jugador cuenta con una espada básica y una cantidad limitada de vidas. Conforme avanza, puede obtener monedas al derrotar enemigos, completar misiones y encontrar cofres. Estas monedas sirven para comprar armas, escudos, armaduras, pociones y otros objetos que ayudan a mejorar al personaje.
  # Fase 2 Diagrama de Flujo
-
+El diagrama de flujo del videojuego Guardianes del Reino, mostrando paso a paso cómo inicia y cómo se desarrolla la partida. Primero aparece la pantalla de inicio y el menú principal, donde el jugador puede elegir entre ver el tutorial, jugar o salir. Al seleccionar jugar, se establece que será una partida de un solo jugador y comienza el nivel 1 con una espada básica y vidas limitadas.
  # Fase 3 Codigo del Videojuego
-
+Este archivo contiene un script de Python que El juego está diseñado utilizando Programación Orientada a Objetos con dos clases principales llamadas Jugador y Enemigo. El usuario ingresa su nombre para crear un guerrero que comienza con 100 de vida, 0 monedas y en el nivel 1. Y cree la entrada de datos por teclado mediante input y controla el flujo del juego utilizando bucles while anidados para vigilar los niveles y los turnos de combate.
  # Fase 4 Github
- 
+ Para realizar mi proyecto de programación de un videojuego, organicé el trabajo en cuatro fases, en las cuales fui desarrollando y mejorando diferentes partes del videojuego. Al finalizar cada fase, guardé los documentos correspondientes y los subí a GitHub para tener un respaldo y llevar un mejor control del avance del proyecto. Primero, creé un repositorio en GitHub para almacenar todos los archivos del videojuego. Después, fui agregando los documentos de cada una de las cuatro fases, organizándolos de manera que fuera fácil identificar las fases
